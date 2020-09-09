@@ -1,0 +1,2 @@
+have to import json and requests
+r = requests.get('https:<whatever>.json'), headers = {'Authorization': ' Bearer <key>'})
